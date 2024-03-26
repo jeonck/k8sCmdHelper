@@ -1,0 +1,6 @@
+dash
+flask
+jinja2
+dash-bootstrap-components==1.0.0
+werkzeug==1.0.1
+markupsafe==1.1.1
